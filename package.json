@@ -1,0 +1,18 @@
+{
+    "name": "SpencieBot",
+    "version": "1.0.0",
+    "description": "A discord bot project for the 'Le Anime' Discord",
+    "main": "bot.js",
+    "author": "Spencer Hewitt",
+    "dependencies": {
+        "bufferutil": "^4.0.1",
+        "discord.io": "github:woor/discord.io#gateway_v6",
+        "discord.js": "^11.4.2",
+        "erlpack": "^0.1.2",
+        "ffmpeg": "0.0.4",
+        "node-opus": "^0.3.1",
+        "winson": "^1.0.0",
+        "winston": "^3.2.1",
+        "ytdl-core": "^0.29.1"
+    }
+}
